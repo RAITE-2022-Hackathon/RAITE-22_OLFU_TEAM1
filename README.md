@@ -17,7 +17,9 @@ and start the both apache and mysql services
 
 Composer Instructions:
  download the composer with the link provided above
+ LOCATE YOUR PROJECT FORLDER ON THE HTDOCS 
 after downloading composer install with all default settings 
+
 and when its done close the installer and run as administrator the CMD 
 after running the CMD type this "composer require codenix-sv/coingecko-api" remember to remove the double qoute
 
